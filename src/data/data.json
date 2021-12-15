@@ -1,0 +1,7 @@
+[
+  { "name": "Bill", "age": 21, "algo": "Uno" },
+  { "name": "Bob", "age": 31, "algo": "Dos" },
+  { "name": "Brad", "age": 41, "algo": "Tres" },
+  { "name": "Brad", "age": 41, "algo": "Cuatro" },
+  { "name": "Brad", "age": 41, "algo": "Cinco" }
+]
